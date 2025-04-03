@@ -2,37 +2,61 @@
 
 Estas palabras están en algún lugar de este repositorio.
 
-Alex	García	Martínez	
 
-Andrik	Álvaro	Solís	Paniagua
+| claves |
+|--------|
+|Alaminos|
+|Alex|
+|Álvaro|
+|Andrik|
+|Arteaga|
+|Bagani|
+|Borrego|
+|Casado|
+|Cazorla|
+|Cristian|
+|Daniel|
+|Diaz|
+|Dídac|
+|Eric|
+|Erik|
+|García|
+|Ginesta|
+|Golanowski|
+|Guillem|
+|Héctor|
+|Joan|
+|Khadija|
+|López|
+|Luis|
+|Luque|
+|Manuel|
+|Martinez|
+|Megias|
+|Meza|
+|Michel|
+|Miguel|
+|Nieto|
+|Noreña|
+|Ortega|
+|Paniagua|
+|Pérez|
+|Pol|
+|Raúl|
+|Ruiz|
+|Sáez|
+|Sahili|
+|Segarra|
+|Segura|
+|Solís|
+|Soriano|
+|Tarruella|
+|Valero|
+|Vera|
+|Willy|
 
-Cristian	Megias	Alaminos	
 
-Daniel	Borrego	Luque	
 
-Daniel	Ortega	Valero	
-
-Dídac	Segarra	Sáez	
-
-Eric	Pérez	Vera	
-
-Erik	Tarruella	Segura	
-
-Guillem	Golanowski	Ginesta	
-
-Héctor	Cazorla	De	Noreña
-
-Joan	Manuel	López	Ruiz
-
-Khadija	Bagani	Sahili	
-
-Luis	Miguel	Casado	Diaz
-
-Pol	Nieto	Martinez	
-
-Raúl	Martínez	Soriano	
-
-Willy	Michel	Meza	Arteaga
 
 
 Junto a estas palabras hay un numero
