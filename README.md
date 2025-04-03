@@ -56,7 +56,8 @@ Estas palabras están en algún lugar de este repositorio.
 |Willy|
 
 
-Junto a estas palabras hay un número. Por ejemplo
+Junto a estas palabras hay un número. No todas las palabras tienes un código asociado. Cada alumno tiene una palabra con código.
+
 
 |ejemplo de token escondido|
 |---------------------------------------------------------------------------|
