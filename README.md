@@ -1,4 +1,4 @@
-# AquÍ hay número
+# Aquí hay número
 
 Estas palabras están en algún lugar de este repositorio.
 
