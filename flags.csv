@@ -46,7 +46,7 @@ DEU:33:0:33:0:0:0:33:0:Germany:Europe:::Horizontal:::
 DJI:0:2:0:35:0:35:0:28:Djibouti:Africa::Triangle:Horizontal:::
 DNK:76:0:0:0:0:0:0:23:Denmark:Europe::::Yes::
 DMA:8:0:8:66:0:0:8:8:Dominica:North America:Bird:::::
-DOM:33:0:0:2:33:0:0:30:Dominican:North America::::::
+DOM:33:0:0:2:33:0:0:30:Casado<M2025040313LMCD>Dominican:North America::::::
 DZA:6:0:0:46:0:0:0:47:Algeria:Africa::Crescent:Vertical:::
 ECU:26:1:47:1:22:0:1:0:Ecuador:South America:Bird::Horizontal:::
 EST:0:0:0:0:0:33:33:33:Estonia:Europe:::Horizontal:::
@@ -129,7 +129,7 @@ MOZ:17:0:28:27:0:0:21:4:Mozambique:Africa:Weapon:Triangle:Horizontal:::
 NAM:27:0:2:32:29:0:0:8:Namibia:Africa:Sun::Diagonal:::
 NER:0:38:0:33:0:0:0:27:Niger:Africa:Sun:Circle:Horizontal:::
 NGA:0:0:0:66:0:0:0:33:Nigeria:Africa:::Vertical:::
-NIC:0:0:0:0:0:68:0:31:Nicaragua:North America:Landscape::Horizontal:::Country
+NIC:0:0:0:0:0:68:0:31:Ginesta<I2025040309GGG>Nicaragua:North America:Landscape::Horizontal:::Country
 NLD:33:0:0:0:33:0:0:33:Netherlands:Europe:::Horizontal:::
 NOR:61:0:0:0:20:0:0:18:Norway:Europe::::Yes::
 NPL:35:0:0:0:13:0:0:7:Nepal:Asia:Sun:"Stars: Crescent"::::
@@ -139,7 +139,7 @@ OMN:0:48:0:24:0:0:0:26:Oman:Asia:Weapon::Horizontal:::
 PAN:26:0:0:0:0:26:0:47:Panama:North America::Stars::::
 PER:66:0:0:0:0:0:0:33:Peru:South America:::Vertical:::
 PNG:44:0:5:0:0:0:48:1:Papua New Guinea:Oceania:Bird:Stars::::
-PHL:39:0:4:0:39:0:0:17:Philippines:Asia:Sun:Triangle:Horizontal:::
+PHL:39:0:4:0:39:0:0:17:PhilippinesGarcía<A2025040301AGM>:Asia:Sun:Triangle:Horizontal:::
 PAK:0:0:0:68:0:0:0:31:Pakistan:Asia::Crescent::::
 POL:50:0:0:0:0:0:0:50:Poland:Europe:::Horizontal:::
 PRT:59:0:3:35:0:0:0:2:Portugal:Europe:Landscape:::::
@@ -177,7 +177,7 @@ TUN:90:0:0:0:0:0:0:9:Tunisia:Africa::"Crescent: Circle"::::
 TON:83:0:0:0:0:0:0:16:Tonga:Oceania::::Yes::
 TUR:94:0:0:0:0:0:0:5:Turkey:Asia::Crescent::::
 TTO:69:0:0:0:0:0:20:10:Trinidad and Tobago:North America:::Diagonal:::
-TUV:9:0:4:0:7:70:0:8:Tuvalu:Oceania:::::Yes:
+TUV:9:0:4:0:7:70:0:8:TuvaluValero<E2025040305DOV>:Oceania:::::Yes:
 TWN:75:0:0:0:21:0:0:3:Taiwan:Asia::::::
 TZA:0:0:12:29:0:29:29:0:Tanzania:Africa:::Diagonal:::
 UKR:0:0:50:0:0:49:0:0:Ukraine:Europe:::Horizontal:::
