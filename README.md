@@ -63,4 +63,4 @@ Junto a estas palabras hay un número. Por ejemplo
 |:DOM:33:0:0:2:33:0:0:30:Casado-M2025040313LMCD-Dominican:North America::::::|
 
 
-Encuentra tu token. Sube el código entre "-" al campus virtual para ser evaluado. En este caso subiría >M2025040313LMCD< (SOLAMENTE LOS CARACTERES ENTRE ><. No subas ni ">" no "<")
+Encuentra tu token. Sube el código entre "-" al campus virtual para ser evaluado. En este caso subiría >M2025040313LMCD< (SOLAMENTE LOS CARACTERES ENTRE ><. No subas ni ">" ni "<")
